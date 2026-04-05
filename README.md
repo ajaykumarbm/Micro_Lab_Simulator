@@ -141,7 +141,7 @@ Assets/
 1. Clone the repository
 2. Open project in Unity Hub
 3. Open the main scene
-4. Click ▶ Play
+4. Click Play
 
 ---
 
